@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"q3.formas","l":"Circulo"},{"p":"q3.formas","l":"Forma"},{"p":"q3.formas","l":"Ponto"},{"p":"q3.main","l":"Principal"},{"p":"q3.formas","l":"Retangulo"},{"p":"q3.formas","l":"Trapezio"},{"p":"q3.formas","l":"Triangulo"}]

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"q2.main","c":"Principal","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"q2.texto","c":"Palavra","l":"ordena()"},{"p":"q2.texto","c":"Palavra","l":"Palavra()","url":"%3Cinit%3E()"},{"p":"q2.main","c":"Principal","l":"Principal()","url":"%3Cinit%3E()"}]
